@@ -6,7 +6,7 @@ public class CalculatorTest {
     @Test
     public void testAdd() {
         System.out.println("Testing Add");
-        assertEquals(16, calc.add(1,2,3,4,5));
+        assertEquals(15, calc.add(1,2,3,4,5));
     }
 
     @Test
@@ -18,7 +18,7 @@ public class CalculatorTest {
     @Test
     public void testMultiply() {
         System.out.println("Testing Multiplication");
-        assertEquals(121, calc.multiply(1,2,3,4,5));
+        assertEquals(120, calc.multiply(1,2,3,4,5));
     }
 
     @Test(expected = ArithmeticException.class)
