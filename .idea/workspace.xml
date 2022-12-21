@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e41a0af-0b72-44ab-ac45-20496a2a3958" name="Changes" comment="Test files corrected">
+    <list default="true" id="5e41a0af-0b72-44ab-ac45-20496a2a3958" name="Changes" comment="Test files corrupted">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
     </list>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671631578742</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test files corrupted">
+      <created>1671633423174</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671633423174</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,7 +174,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Test files added" />
     <MESSAGE value="Test files corrected" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test files corrected" />
+    <MESSAGE value="Test files corrupted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test files corrupted" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/First$All_in_First.ic" NAME="All in First Coverage Results" MODIFIED="1671629885852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
