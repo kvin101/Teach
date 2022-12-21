@@ -6,7 +6,7 @@ public class CalculatorTest {
     @Test
     public void testAdd() {
         System.out.println("Testing Add");
-        assertEquals(15, calc.add(1,2,3,4,5));
+        assertEquals(16, calc.add(1,2,3,4,5));
     }
 
     @Test

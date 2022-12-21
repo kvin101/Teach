@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e41a0af-0b72-44ab-ac45-20496a2a3958" name="Changes" comment="Test files added">
+    <list default="true" id="5e41a0af-0b72-44ab-ac45-20496a2a3958" name="Changes" comment="Test files corrected">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CalculatorTest.java" afterDir="false" />
     </list>
@@ -59,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in First (3)">
+  <component name="RunManager" selected="JUnit.All in First">
     <configuration name="All in First (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="First" />
       <option name="PACKAGE_NAME" value="" />
@@ -87,27 +87,7 @@
     <configuration name="All in First" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="First" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
       <option name="TEST_OBJECT" value="package" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="First" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.java" />
-      <option name="MAIN_CLASS_NAME" value="test.java.CalculatorTest" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -130,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in First" />
         <item itemvalue="JUnit.All in First (3)" />
         <item itemvalue="JUnit.All in First (2)" />
         <item itemvalue="JUnit.CalculatorTest.testMultiply" />
         <item itemvalue="JUnit.All in First (1)" />
-        <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671630793175</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test files corrected">
+      <created>1671631578742</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671631578742</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,7 +166,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Test" />
     <MESSAGE value="Test files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test files added" />
+    <MESSAGE value="Test files corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test files corrected" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/First$All_in_First.ic" NAME="All in First Coverage Results" MODIFIED="1671629885852" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
